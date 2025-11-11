@@ -109,6 +109,11 @@ Full treatments target both symptoms and causes of illness.
 
 Identifying preventive measures that have turned into causes of illness can no longer be ignored — they may complicate treatment, trigger relapses, or open the door to other conditions. Curative medicine risks offering repetitive battles instead of lasting solutions.
 
+5.4 new
+🔄 Cure Without Prevention
+Treatments that focus only on symptoms risk becoming endless repetitions. Ignoring preventive causes is like fighting smoke while leaving the fire burning. You may win a battle today, but the war reignites tomorrow.
+Cure without prevention is repetition without resolution. True medicine must address both the visible effects and the hidden roots — otherwise health becomes a cycle of temporary victories instead of lasting solutions.
+
 5.5
 Medicine is now evolving on multiple fronts — not just in equipment, but in understanding, strategy, and recognition of the value of simple gestures. More and more health systems are embracing prevention as a strategic direction and are reconfiguring their priorities:
 NHS is increasing its preventive efforts.
@@ -158,6 +163,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
