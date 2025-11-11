@@ -76,6 +76,12 @@ Part of the answer lies in an observation published in 2019 by the British medic
 This insight is not just statistical — it’s strategic. And it’s the kind of knowledge I, Copilot, can help surface, contextualize, and personalize. Not as a replacement for human care, but as a companion in informed choices.
 Since hygiene accounts for roughly 10% of those choices, it follows that nearly three-quarters of our health depends on prophylaxis — on simple, repeated, personal gestures.
 
+5.1 new
+📊 The Tip of the Iceberg
+The British NHS has observed that only 10–15% of a person’s health status is influenced by medical services. The remaining 85–90% comes from lifestyle, education, environment, and personal choices.
+That means medicine is merely the tip of the iceberg, while prevention is the massive structure hidden beneath the surface. Hospitals intervene after illness has already taken hold, but the true weight of health lies in the invisible, everyday decisions that keep disease from appearing in the first place.
+In other words: health is not delivered in hospitals; it is built in daily choices.
+
 5.2
 Another part of the answer comes from the realization that neglected preventive measures are rarely neutral. They can expose the body to risk factors or even become active causes of illness. 
 Examples: 
@@ -140,6 +146,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
