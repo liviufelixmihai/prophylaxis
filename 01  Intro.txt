@@ -119,6 +119,11 @@ Simplicity does not mean weakness; it means clarity. A walk, a conscious breath,
 🔍 Simplicity in study and observation 
 While curative medicine requires years of study and constant updates, prevention demands far less — it is accessible to anyone, regardless of age, status, or education. In many cases, simple observations can be more than revealing. For example, noticing that about 60% of our structure — bones, muscles, and ligaments — is dedicated to movement clearly shows that sedentarism is not our natural state.
 
+6.1 new 
+🔍 Simplicity in Study and Observation
+While curative medicine demands specialized knowledge, prevention often begins with simple observations. For instance, recognizing that nearly 60% of our physical structure — bones, muscles, and ligaments — is dedicated to movement makes it clear that sedentarism is not our natural state. Such insights require no laboratory, no equipment, only attention.
+Prevention is not hidden in textbooks; it is written in the body itself.
+
 6.2
 🛠️ Simplicity in practice 
 Prevention can mean a walk or a jog, a conscious breath, a food choice. It doesn’t require equipment, personnel, or performance — just presence and choices made out of respect for body and mind.
@@ -148,6 +153,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
