@@ -160,6 +160,12 @@ There is no greater ambition than this: to live in a rhythm where disease does n
 💰 Simplicity in cost 
 Prevention is not a luxury. Natural light, movement, sleep, water, silence — all these aspects of life ask for nothing, only to be acknowledged. They are a discreet kind of luxury — so ordinary they’re often overlooked, yet decisive.
 
+6.5 new
+6.5 💰 Simplicity in Cost
+Prevention is not a luxury. Natural light, movement, sleep, water, silence — all these aspects of life ask for nothing, only to be acknowledged. They are free resources, available to everyone, yet decisive in shaping health.
+Among preventive methods, only phytotherapy may involve certain expenses — but even these are modest, nowhere near the costs of an oncological treatment. Compared to the immense financial burden of curing advanced disease, prevention is almost costless.
+Simplicity in cost is therefore not an abstraction. It is a reality: most preventive gestures are free, and even those with minor expenses remain insignificant when measured against the price of illness.
+
 6.6
 ⚙️ Simplicity through efficiency 
 The efficiency of prevention comes from accessible natural forces, from millennia of experience and recent observations, from consistency, continuous exploration, and refinement of lived experiences. Medical practice confirms that the effectiveness of prevention often exceeds that of treatment. And since prevention is still used sporadically — far from its real potential — it’s very likely that its true efficiency is even greater.
@@ -173,6 +179,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
