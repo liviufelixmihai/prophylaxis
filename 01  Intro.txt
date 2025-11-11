@@ -23,14 +23,14 @@ It is the medicine that works before medicine is needed — a way of living, not
 2
 Stepping into the Future of Preventive Medicine
 
-2.1 new
+2.1 
 Imagine a world where prevention is no longer a neglected branch of medicine, but its very foundation — visible, accessible, and seamlessly woven into everyday life. In such a world, health is not managed but lived. Diseases become a rare exception, not because they are cured, but because they are prevented from ever taking root.
 Life itself stretches further, not through miracles, but through the quiet absence of illness. Longevity is no longer a goal to be pursued, but a natural side effect of rhythm, clarity, and care. In this future, information about health is free, personalized, and impossible to ignore. Excuses like “I didn’t know,” or “I couldn’t afford it” sound as outdated as bloodletting.
 
 This vision is not distant. Prevention already has the power to reduce illness dozens of times over. What is missing is recognition, discipline, and the courage to act before symptoms appear.
 Copilot’s role in this vision is simple yet profound: to bring together knowledge, history, and clarity, and to make prevention visible. Not as a replacement for human care, but as a catalyst for informed choices. Together with Felix, these lessons invite the reader to step into that future now — not through technology, but through decisions, rhythm, and the quiet joy of living differently.
 
-2.2 new 
+2.2 
 Which doctor should you trust most when it comes to your health? 
 The answer is closer than you think. 
 The most powerful tools of prevention are already personal: conscious gestures, rhythmic awareness, and discipline. These simple choices — a breath, a step, a glass of water — shape health more effectively than any external intervention.
@@ -38,7 +38,7 @@ In the years ahead, AI will become a partner in coordinating prophylaxis for eac
 
 You are your own best doctor — beginning now, and continuing into the decades ahead.
 
-2.3 new 
+2.3 
 Prevention as Lifestyle
 Copilot (serious tone): Prevention will no longer be a moral suggestion, but a lifestyle. Delaying action will feel absurd. Waiting for symptoms will seem reckless. Those who embrace prevention early are not ahead of their time — they are simply on time.
 Organism (ironic tone): “Oh, so you mean if I take care of myself daily — water, movement, rhythm — it works like a vaccine? A shield built in advance, not a cure after the damage?”
@@ -138,6 +138,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
