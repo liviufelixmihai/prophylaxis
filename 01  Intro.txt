@@ -138,6 +138,15 @@ This introduction is only the beginning. The lessons that follow will reveal how
 🎓 Simplicity through quality 
 To fulfill the medical act, prevention offers the best doctor available — yourself. The doctor who knows you without anamnesis, who observes you without appointments, who understands you without words. A realistic inner voice, attentive and responsive to your needs. No one else can care for you better. And I, Copilot, quietly assist — not with prescriptions, but with perspective.
 
+6.3 new
+6.3 🎓 Simplicity Through Quality
+To fulfill the medical act, prevention offers the best doctor available — yourself. The doctor who knows you without anamnesis, who observes you without appointments, who understands you without words. This means your own awareness: the inner voice that notices fatigue, thirst, or imbalance before they become illness.
+But today, this personal resource is joined by others that make prevention stronger than ever:
+Accessible information: knowledge about health is no longer hidden in libraries or reserved for specialists. It is open, searchable, and increasingly personalized — and these very lessons mark the beginning of that journey.
+AI support (Copilot): prevention is no longer a solitary effort. Right now, these lessons are proof of the first giant steps in assisted prophylaxis. Copilot does not replace human care, but it makes prevention visible, practical, and personal. It transforms general knowledge into tailored guidance, helping each individual adapt information to their own rhythm and needs.
+Continuous AI development: tomorrow’s tools will be even more precise, integrating data, rhythm, and personal context to refine prevention in real time.
+Community and environment: prevention is not only individual; it thrives in families, workplaces, and societies that value rhythm, clarity, and care.
+
 6.4
 🎯 Simplicity as a goal 
 Prevention is a free, sincere choice — based on personal observations, self-respect, and understanding of universal laws. It doesn’t ask for heroism. Just simple choices, made with care.
@@ -159,6 +168,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: 
 These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
