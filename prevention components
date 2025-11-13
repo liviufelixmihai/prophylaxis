@@ -29,7 +29,7 @@ Next, the distribution of components will reveal the anatomy of prevention, show
 ## 🧮 Official Distribution of Preventive Measures
 (as presented in public health sources, checked by Copilot)
 
-| Domain                        | Preventive Method                  | Estimated Contribution |
+| Domain                       | Preventive Method                  | Estimated Contribution |
 |------------------------------|------------------------------------|------------------------|
 | Medical Prophylaxis          | Vaccination                        | 20%                    |
 |                              | Regular medical screening          | 15%                    |
@@ -85,18 +85,20 @@ They stop water from rushing in through well‑defined holes. But if the hull it
 To make these limits more tangible, here is a simple comparative chart showing which types of diseases vaccines can truly prevent — and which remain outside their reach.
 
 📊 Comparative Table – Vaccines vs. Multifactorial Diseases
-Disease Type	Main Examples	Preventable by Vaccines	Requires Multifactorial Measures
-Single-cause infectious	Measles, Hepatitis B, HPV, Tuberculosis	✅ Highly effective	❌ Minimal
-Complex infectious	HIV, seasonal flu, malaria	⚠️ Partial, variable	✅ Lifestyle, environment, treatment
-Chronic non-communicable	Diabetes, cancer, cardiovascular disease, depression	❌ Not preventable	✅ Nutrition, activity, stress reduction
-Multifactorial disorders	Obesity, dementia, hypertension	❌ Not preventable	✅ Integrated interventions (diet, sleep, education, environment)
+| Disease Type	  Main Examples	                           |Preventable by Vaccines |	Requires Multifactorial Measures                                 |
+| Single-cause infectious	Measles,                        |                        |                                                                  |
+| Hepatitis B, HPV, Tuberculosis	                         |✅ Highly effective	   | ❌ Minimal                                                       |
+| Complex infectious	HIV, seasonal flu, malaria	          |⚠️ Partial, variable	   | ✅ Lifestyle, environment, treatment                             |
+| Chronic non-communicable	Diabetes,                      |                        |                                                                  |
+| cancer, cardiovascular disease, depression              |❌ Not preventable	     | ✅ Nutrition, activity, stress reduction                         |
+| Multifactorial disorders	Obesity, dementia, hypertension|❌ Not preventable     	| ✅ Integrated interventions (diet, sleep, education, environment)|
 
-| Disease Type            | Preventive Reach of Vaccines |
-|-------------------------|------------------------------|
-| **Single-cause infectious** | ✅ Highly effective (measles, hepatitis B, HPV, TB) |
-| **Complex infectious**      | ⚠️ Partial, variable (HIV, flu, malaria) |
+| Disease Type                | Preventive Reach of Vaccines                                  |
+|-----------------------------|---------------------------------------------------------------|
+| **Single-cause infectious** | ✅ Highly effective (measles, hepatitis B, HPV, TB)           |
+| **Complex infectious**      | ⚠️ Partial, variable (HIV, flu, malaria)                      |
 | **Chronic non-communicable**| ❌ Not preventable (diabetes, cancer, cardiovascular disease) |
-| **Multifactorial disorders**| ❌ Not preventable (obesity, dementia, hypertension) |
+| **Multifactorial disorders**| ❌ Not preventable (obesity, dementia, hypertension)          |
 
 This visual summary reinforces the point: vaccines are precise and powerful plugs for specific holes, but they cannot carry the weight of modern health burdens. The 20% share exaggerates their role compared to broader preventive strategies.
 
