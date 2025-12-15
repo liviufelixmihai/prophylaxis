@@ -446,6 +446,38 @@ Issue pentru feedback — deschide un issue pentru fiecare întrebare unde adaug
 Template pentru „Ce putem face” — creează un mic template în fișier pentru secțiunea de 
 soluții practice, ca să fie consecventă formatarea.
 
+Ce propun să fac imediat pentru tine
+Integrez observațiile în formă gata de lipit în GitHub: fragmente scurte pentru fiecare 
+întrebare (adăugiri istorice, 2–3 măsuri practice, linie finală care readuce gravitatea).
+Pregătesc commit messages clare și tematice pentru fiecare modificare, ca să fie ușor de 
+revizuit.
+Creez un mic template „Ce putem face” pe care să-l copiezi sub fiecare întrebare, pentru 
+consistență.
+Fragmente gata de lipit (exemple scurte)
+Întrebare 4 Adăugare istorică Exemplu istoric: în comunități rurale, medicul era plătit 
+periodic pentru menținerea sănătății satului; plata era condiționată de indicatori 
+simpli de sănătate.
+Întrebare 6 Măsură practică Ce putem face: introduce abonamente preventive pentru 
+populație; măsurare prin indicatori anuali; comunicare publică care prezintă prevenția ca 
+investiție.
+Întrebare 7 Vizibilitate Ce putem face: premii locale pentru „Eroul Profilaxiei”; 
+micro‑documentare despre asistenți comunitari; campanii care arată economiile generate de 
+prevenție.
+Commit messages și workflow recomandat
+Commit message pentru adăugări istorice: arg1: add historical example to Q4 — payment for 
+health
+Commit message pentru secțiuni practice: arg1: add "Ce putem face" to Q4–Q8
+Workflow: commit pe fiecare întrebare separat; deschide un issue numit review: 
+Argumentul 1 — completări propuse și atașează linkurile commiturilor.
+
+Trailer compact pentru Argumentul 1
+Titlu: Sănătatea înseamnă 90% profilaxie
+Slogan: „Plătim pentru boală, dar visăm la sănătate”
+Teaser teatral: 
+Fraierul: „De ce plătim pentru boală și nu pentru sănătate?” 
+Profesorul: „Pentru că sistemul recompensează drama, nu prevenția.” 
+Concluzie: prevenția nu e invizibilă; e investiția pe care încă nu am învățat s‑o plătim.
+
 
 
 „De ce interesul pentru sănătate începe abia când scorul e 0–3?” — imaginea sportivă. de 
