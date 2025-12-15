@@ -393,6 +393,59 @@ pentru boala care nu apare.”
 Replica comică: „Deci profilaxia e ca un paznic invizibil: nu primește buget, doar afișe.”
 
 
+Critici constructive și completări practice
+Tonul comic: nuanțare
+Problema: unele glume riscă să minimalizeze gravitatea subiectului.
+Soluție: păstrează ironia, dar adaugă o linie finală care readuce gravitatea (de ex. o 
+concluzie scurtă care leagă gluma de un fapt practic).
+Echilibru între istorie și date
+Problema: contrastele istorice (plata pentru sănătate în trecut) sunt puternice, dar ar 
+câștiga dacă ai insera 1–2 exemple istorice concrete sau referințe succinte.
+Soluție: adaugă o propoziție‑exemplu pentru fiecare contrast istoric (de ex. practica 
+plății preventive în comunități tradiționale).
+Măsurabilitate și soluții practice
+Problema: multe întrebări expun paradoxuri, dar lipsesc propuneri concrete de politică 
+sau intervenție.
+Soluție: pentru fiecare întrebare, adaugă o secțiune scurtă „Ce putem face” cu 2–3 măsuri 
+practice (ex.: finanțare pe abonament pentru sănătate, indicatori de succes pentru 
+prevenție, campanii de vizibilitate pentru eroii profilaxiei).
+Sugestii concrete de editare pentru întrebările 4–8
+Întrebarea 4 (economic / istoric)
+Adăugare: un exemplu istoric scurt (de ex. plata medicului pentru menținerea sănătății în 
+comunități rurale) și o propunere: contracte de prevenție (plată periodică pentru 
+menținerea indicatorilor de sănătate).
+Întrebarea 5 (calitatea vieții)
+Adăugare: un mini‑checklist al factorilor care compun calitatea vieții (social, economic, 
+psihologic) și o notă despre limitările intervențiilor medicale singure.
+Întrebarea 6 (paradoxul logic)
+Adăugare: un exemplu comparativ (costul prevenției vs costul tratamentului pe termen 
+mediu) și o frază care arată cum se poate comunica prevenția ca „investiție”.
+Întrebarea 7 (eroi vs vedete)
+Adăugare: propunere de „eroi ai profilaxiei” (ex.: asistent comunitar, educator în 
+sănătate) și idei de vizibilitate media (micro‑documentare, premii locale).
+Întrebarea 8 (ce se învață la facultate)
+Adăugare: scurtă listă curriculară (sănătate publică; epidemiologie; igienă; medicină 
+preventivă) și o sugestie de reformă didactică: integrarea proiectelor practice 
+comunitare în curriculum.
+(Include aceste completări direct sub fiecare întrebare în fișier pentru a păstra 
+legătura între problemă și soluție.)
+Polishing teatral și ritm
+Ritmul dialogului: alternează replici scurte (1–2 propoziții) cu o concluzie mai lungă; 
+asta păstrează dinamica.
+Personaje: păstrează „Fraierul” și „Profesorul”, dar poți introduce ocazional un al 
+treilea personaj scurt — „Reporterul” — care pune întrebări publicului și forțează o 
+concluzie practică.
+Final de scenă: încheie fiecare întrebare cu o propoziție‑cheie memorabilă (un motto) 
+care poate servi ca subtitlu în GitHub.
+
+Lucruri practice pentru GitHub și următorii pași
+Commit‑uri mici și tematice — salvează fiecare întrebare + completările propuse ca un 
+commit separat; facilitează revizuirea.
+Issue pentru feedback — deschide un issue pentru fiecare întrebare unde adaugi comentarii 
+și propuneri; astfel poți urmări discuțiile.
+Template pentru „Ce putem face” — creează un mic template în fișier pentru secțiunea de 
+soluții practice, ca să fie consecventă formatarea.
+
 
 
 „De ce interesul pentru sănătate începe abia când scorul e 0–3?” — imaginea sportivă. de 
