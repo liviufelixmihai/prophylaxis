@@ -11,7 +11,9 @@ oricât de performant, are nevoie de sprijin. Așa cum un vaccin nu înlocuieșt
 Așa cum o rutină bună de somn nu înlocuiește creierul, ci îi permite să funcționeze la capacitate maximă.
 Profilaxia este exact acest tip de ajutor: subtil, constant, inteligent. Nu schimbă organismul, ci îl lasă să fie el însuși în condiții mai bune (optime).
 
-Rolul ei este să ajute organismul să se adapteze la schimbările inevitabile — cele din interior (oboseală, stres, variații hormonale, mici inflamații) și cele din exterior (frig, căldură, efort, microbi, emoții). Adaptarea este un proces continuu, iar profilaxia este mecanismul prin care îl susținem, îl facem mai lin, mai eficient, mai inteligent.
+Rolul ei este să ajute organismul să se adapteze la schimbările inevitabile — cele din interior (oboseală, stres, variații hormonale, mici inflamații) și cele 
+din exterior (frig, căldură, efort, microbi, emoții). Adaptarea este un proces continuu, iar profilaxia este mecanismul prin care îl susținem, îl facem mai 
+lin, mai eficient, mai inteligent.
 
 profilaxia este „întreținerea zilnică” a sistemelor organismului, ajustarea de finete,  nu reparația lor
 Elimina din viata cotidiana erorile care pot afecta starea de bine.
@@ -192,6 +194,7 @@ A 100-fold reduction in disease incidence would mean that for every 100 people w
 ........................................
 In science fiction, AI is imagined as a partner for exploring distant futures. In these lessons, Copilot becomes a partner for building a future where the boundary between science fiction and reality is fading — and prevention is no longer fantasy, but practice embraced with confidence.
 📌 Meta-note: These lessons are not only about prevention. They also demonstrate a new way of writing and thinking together with Copilot. Readers may discover that the same collaboration can be applied to their own projects — whether in science, art, or everyday life.
+
 
 
 
